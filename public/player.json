@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Virat kholi",
+    "photos": ["https://i.ibb.co/SXmwrxn/1.jpg"],
+    "about": "Professional basketball player, known for his scoring ability.",
+    "salary": "$5,000,000"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "photos": ["https://i.ibb.co/xhGXyZB/image.jpg"],
+    "about": "Talented soccer player with a passion for the game.",
+    "salary": "$4,500,000"
+  },
+  {
+    "id": 4,
+    "name": "MS Dhone",
+    "photos": ["https://i.ibb.co/wRqr4Nf/57.png"],
+    "about": "Up-and-coming golfer with a bright future in the sport.",
+    "salary": "$3,800,000"
+  },
+  {
+    "id": 5,
+    "name": "David Lee",
+    "photos": ["https://i.ibb.co/RBpL5JK/Yuvraj-Singh-and-Ulysse-Nardin.jpg"],
+    "about": "Versatile baseball player with exceptional fielding skills.",
+    "salary": "$7,000,000"
+  },
+  {
+    "id": 1,
+    "name": "Virat kholi",
+    "photos": ["https://i.ibb.co/SXmwrxn/1.jpg"],
+    "about": "Professional basketball player, known for his scoring ability.",
+    "salary": "$5,000,000"
+  },
+  {
+    "id": 1,
+    "name": "Virat kholi",
+    "photos": ["https://i.ibb.co/SXmwrxn/1.jpg"],
+    "about": "Professional basketball player, known for his scoring ability.",
+    "salary": "$5,000,000"
+  }
+]
